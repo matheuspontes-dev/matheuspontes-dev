@@ -30,8 +30,7 @@ I'm a **Software Developer** with a background in **English Literature and Educa
 ---
 
 ### 🌟 Featured Projects
-- **[AI Language Tutor](https://github.com/your-repo)**: An AI-powered tool for language learners.
-- **[Data Management for ESL](https://github.com/your-repo)**: Research-driven project improving English learning with data.
+- **[GT Website](https://github.com/Delioraz/GT-Project1)**: A website to promote the movie Gran Turismo using only HTML and CSS.
 
 ---
 
