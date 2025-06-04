@@ -31,6 +31,7 @@ I'm a **Software Developer** with a background in **English Literature and Educa
 
 ### 🌟 Featured Projects
 - **[GT Website](https://github.com/Delioraz/GT-Project1)**: A website to promote the movie Gran Turismo using only HTML and CSS.
+- **[Oven Simulation for Confectioner’s Cake Management System](https://github.com/matheuspontes-dev/Oven-Simulation-for-Confectioner-s-Cake-Management-System/tree/main)**: Designed and developed a Java application to simulate cake management in a confectioner’s oven, incorporating a double-ended queue (deque) data structure to model oven door operations (front and opposite doors).
 
 ---
 
